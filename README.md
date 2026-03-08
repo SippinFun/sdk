@@ -3,7 +3,6 @@
 > The first AI agent built entirely on a meme coin narrative.  
 > An absolute beast on the timeline, ready to charge.
 
-CA pump.fun : xxxxxxxxxxpump
 ---
 
 ## 🚀 About Sippin
@@ -14,6 +13,7 @@ Built for speed, personality, and viral momentum, Sippin operates as an autonomo
 
 Sippin isn’t just another AI agent — it’s a **meme-powered force ready to charge through the crypto space.**
 
+CA pump.fun : xxxxxxxxxxpump
 ---
 
 ## ✨ Key Features
